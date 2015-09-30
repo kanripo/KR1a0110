@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易象正
-#+DATE: 2015-09-23 09:35:16
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 21:58:12.979774
+#+PROPERTY: ID KR1a0110
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1a0110_WYG_008-1a>¶
 欽定四庫全書¶
 　易象正卷六¶
@@ -650,4 +652,3 @@
 　　(熈之後三年孰為久速者歟是則恒咸逓用也恭/帝己未晉室始廢蒼梧己未宋社亦遷以宋視晉)¶
 　　(夫孰為久/速者乎)¶
 　易象正卷六¶
-

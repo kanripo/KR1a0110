@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易象正
-#+DATE: 2015-09-23 09:35:16
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 21:58:13.160568
+#+PROPERTY: ID KR1a0110
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷終下
 <pb:KR1a0110_WYG_016-1a>¶
 欽定四庫全書¶
 　易象正卷終下¶
@@ -731,4 +733,3 @@
 　　(而不知六十四事之象雖明知吉凶與世同患於/以救敝起衰无繇矣故作大象序而又為六十四)¶
 　　(事圖/終焉)¶
 易象正卷終下¶
-
